@@ -1,4 +1,4 @@
-package euler
+package scala.euler
 
 /*
  * Task: http://projecteuler.net/problem=1

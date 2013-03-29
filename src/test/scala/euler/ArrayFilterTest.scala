@@ -1,7 +1,10 @@
-package euler.test
+package scala.euler
 
 import org.scalatest.FunSpec
 import org.scalatest.BeforeAndAfter
+import euler.ArrayFilter
+import euler.ArrayFilter
+import euler.ArrayFilter
 import euler.ArrayFilter
 
 class ArrayFilterTest extends FunSpec with BeforeAndAfter {
