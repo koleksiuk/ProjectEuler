@@ -19,12 +19,4 @@ class ArrayFilterTest extends FunSpec with BeforeAndAfter {
       assert(arrFilter.sum === 23)
     }
   }
-
-  describe("Euler task") {
-    it("should return correct value") {
-      arrFilter = new ArrayFilter(1000)
-
-      assert(arrFilter.sum === 233168)
-    }
-  }
 }
