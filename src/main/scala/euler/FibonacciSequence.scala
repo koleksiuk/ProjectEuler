@@ -12,11 +12,9 @@ class FibonacciSequence(n: Int) {
     throw new IllegalArgumentException
 
   var array = Array[Int](1, 1)
-  var i = 2
 
-  while (array(i-1) + array(i-2) <= n) {
-    this.push(array(i-1) + array(i-2))
-    i += 1
+  while (this.sumLast() <= n) {
+    this.push(this.sumLast())
   }
 
   def even() : Array[Int] = {
@@ -25,5 +23,9 @@ class FibonacciSequence(n: Int) {
 
   private def push(next: Int) {
     array = array ++ Array(next)
+  }
+
+  private def sumLast() : Int = {
+    this.array.last + this.array(this.array.size - 2)
   }
 }
