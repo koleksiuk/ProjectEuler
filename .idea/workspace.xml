@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c98c6e00-2ee9-4795-9a67-520f1550c50d" name="Default" comment="" />
+    <list default="true" id="c98c6e00-2ee9-4795-9a67-520f1550c50d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala" />
+    </list>
     <ignored path="ProjectEuler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592010412" ignored="false" />
-    <file path="/SBT" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592180278" ignored="false" />
+    <file path="/SBT" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592689255" ignored="false" />
     <file path="$PROJECT_DIR$/src/test/scala/package.scala" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592149087" ignored="false" />
     <file path="/fragment.java" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592157110" ignored="false" />
+    <file path="/ArrayFilterTest.scala" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592640126" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +69,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArrayFilterTest.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ArrayFilterTest.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.15880893">
               <folding>
-                <element signature="e#21#49#0" expanded="false" />
+                <element signature="e#21#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/euler/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="34" selection-end="34" vertical-scroll-proportion="0.079404466">
+            <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +92,7 @@
       <file leaf-file-name="ArrayFilter.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/euler/ArrayFilter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="21" selection-end="402" vertical-scroll-proportion="0.0">
+            <state line="7" column="10" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,6 +118,7 @@
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/scala/euler/Main.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala" />
       </list>
     </option>
   </component>
@@ -480,7 +484,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#21#49#0" expanded="false" />
+            <element signature="e#21#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -503,7 +507,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="50" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#21#49#0" expanded="false" />
+            <element signature="e#21#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -526,7 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="42" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#21#49#0" expanded="false" />
+            <element signature="e#21#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -557,24 +561,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/euler/ArrayFilter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="21" selection-end="402" vertical-scroll-proportion="0.0">
+        <state line="7" column="10" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/euler/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.15880893">
           <folding>
-            <element signature="e#21#49#0" expanded="false" />
+            <element signature="e#21#49#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/euler/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="20" selection-start="34" selection-end="34" vertical-scroll-proportion="0.079404466">
-          <folding />
         </state>
       </provider>
     </entry>
