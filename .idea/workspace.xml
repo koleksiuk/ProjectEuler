@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c98c6e00-2ee9-4795-9a67-520f1550c50d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala" />
-    </list>
+    <list default="true" id="c98c6e00-2ee9-4795-9a67-520f1550c50d" name="Default" comment="" />
     <ignored path="ProjectEuler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c98c6e00-2ee9-4795-9a67-520f1550c50d" time="1364592010412" ignored="false" />
@@ -69,10 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArrayFilterTest.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ArrayFilterTest.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.15880893">
+            <state line="6" column="18" selection-start="0" selection-end="625" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#21#49#0" expanded="true" />
               </folding>
@@ -80,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Main.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/euler/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
+            <state line="5" column="22" selection-start="74" selection-end="74" vertical-scroll-proportion="0.19851117">
               <folding />
             </state>
           </provider>
@@ -92,7 +90,7 @@
       <file leaf-file-name="ArrayFilter.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/euler/ArrayFilter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+            <state line="8" column="21" selection-start="0" selection-end="402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -395,13 +393,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1260" height="760" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -559,26 +557,26 @@
         <state line="2" column="46" selection-start="36" selection-end="37" vertical-scroll-proportion="0.079404466" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="0" selection-end="625" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#21#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/euler/ArrayFilter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+        <state line="8" column="21" selection-start="0" selection-end="402" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/euler/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
+        <state line="5" column="22" selection-start="74" selection-end="74" vertical-scroll-proportion="0.19851117">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/euler/ArrayFilterTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.15880893">
-          <folding>
-            <element signature="e#21#49#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
