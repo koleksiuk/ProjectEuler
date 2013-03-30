@@ -14,4 +14,11 @@ class EulerProblemsTest extends FunSpec {
       assert(new FibonacciSequence(4000000).even().sum == 4613732)
     }
   }
+
+  describe("Problem 3") {
+    it("should be equal 6857") {
+      println("test")
+      assert(new Prime().findLargestFactor(600851475143L) == 6857)
+    }
+  }
 }
